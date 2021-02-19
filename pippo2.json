@@ -1,0 +1,13 @@
+[
+    {
+        "id": "4bf58dd8d48988d1c8941735",
+        "name": "African Restaurant",
+        "pluralName": "African Restaurants",
+        "shortName": "African",
+        "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/african_",
+            "suffix": ".png"
+        },
+        "primary": true
+    }
+]
